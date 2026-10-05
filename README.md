@@ -6,10 +6,11 @@
 
 ## 📌 Assignment Information
 
-**Course:** DevOps
-**Batch:** Ostad Batch 14
-**Assignment:** The Friday Night Fix
-**Challenge:** CloudNest DevOps Challenge
+- **Name:** Md Hasan Ali
+- **Course:** DevOps
+- **Batch:** Ostad Batch 14
+- **Assignment:** The Friday Night Fix
+- **Challenge:** CloudNest DevOps Challenge
 
 ---
 
@@ -794,18 +795,18 @@ The following screenshots provide proof of the completed tasks.
 GitHub Repository:
 
 ```text
-YOUR_GITHUB_REPOSITORY_URL
+https://github.com/Hasancse1617/ostad-assignment7
 ```
 
 ---
 
 # 👨‍💻 Author
 
-**Hasan Ali**
+**Md Hasan Ali**
 
-Ostad Batch 14
-
-DevOps Assignment 7
+- **GitHub:** [https://github.com/Hasancse1617/ostad-assignment7](https://github.com/Hasancse1617/ostad-assignment7)
+- **Batch:** Ostad Batch 14
+- **Assignment:** The Friday Night Fix
 
 ---
 
