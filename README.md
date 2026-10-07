@@ -785,8 +785,8 @@ The following screenshots provide proof of the completed tasks.
 * [x] Task 6 — Prometheus configured
 * [x] Task 7 — Grafana configured
 * [x] Task 7 — Custom dashboard created
-* [ ] Screenshots added
-* [ ] GitHub repository link added
+* [x] Screenshots added
+* [x] GitHub repository link added
 
 ---
 
